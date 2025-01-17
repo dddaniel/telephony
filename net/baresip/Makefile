@@ -142,7 +142,6 @@ define Package/baresip/install
 endef
 
 define Package/baresip/conffiles
-/etc/baresip/accounts
 /etc/baresip/config
 /etc/baresip/contacts
 endef
